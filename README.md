@@ -5,5 +5,5 @@ O projeto Booming foi feito com o intuito de aprender mais sobre a framework Swi
 
 # Tela Inicial
 Comparação da tela inicial do nosso clone na esquerda e do aplicativo original na direita.
- 
-![homepage](https://github.com/dayoleal/Interface-Clone/blob/main/assets_presentation/comparison.jpeg)
+
+![grupo10_apresentacao 011](https://github.com/user-attachments/assets/5fc31ba3-2024-4efc-a0bb-8050e3d7238c)
